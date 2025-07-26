@@ -11,7 +11,7 @@ This repository is used for practicing Git commands with simple Java files.
    git clone <repository-url>
    ```
 2. Check the status of your files:
-   ```sh
+   ```sh`
    git status
    ```
 3. Add files to staging:
